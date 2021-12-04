@@ -1,4 +1,4 @@
-# filmfrontent
+# filmsfrontent
 
 ## Project setup
 ```
